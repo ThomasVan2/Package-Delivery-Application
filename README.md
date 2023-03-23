@@ -1,7 +1,7 @@
 # Package-Delivery-Application
 
 ## Introduction ## 
-This is a project to address a package delivery routing issue, which is similar to the traveling salesman problem but with certain limitations and prerequisites. To tackle this problem, I utilized the nearest neighbor algorithm, which has a time complexity of O(n).
+This is a project to address a package delivery routing issue, which is similar to the traveling salesman problem but with certain limitations and prerequisites.
 
 
 ### Description ###
